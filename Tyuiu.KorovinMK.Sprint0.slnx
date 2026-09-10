@@ -1,4 +1,8 @@
 <Solution>
-  <Folder Name="/Task0/" />
-  <Project Path="Tyuiu.KorovinMK.Sprint0.Task0.V/Tyuiu.KorovinMK.Sprint0.Task0.V0.csproj" Id="b6c61540-a269-4b05-af08-dc73af9d90b1" />
+  <Folder Name="/Task0/">
+    <Project Path="Tyuiu.KorovinMK.Sprint0.Task0.V/Tyuiu.KorovinMK.Sprint0.Task0.V0.csproj" Id="b6c61540-a269-4b05-af08-dc73af9d90b1" />
+  </Folder>
+  <Folder Name="/Task1/">
+    <Project Path="Tyuiu.KorovinMK.Sprint0.Task1.V0/Tyuiu.KorovinMK.Sprint0.Task1.V0.csproj" Id="f3fab4e0-9ae6-4203-8018-c16934d3441d" />
+  </Folder>
 </Solution>
